@@ -119,3 +119,10 @@ Com base tanto na acurácia de validação cruzada quanto no desempenho na submi
 - **Modelos de Ensemble:** Combinar as previsões de múltiplos modelos (stacking, blending) para buscar um desempenho ainda melhor.
 - **Otimização de Hiperparâmetros Mais Abrangente:** Usar `RandomizedSearchCV` ou otimização bayesiana para explorar um espaço maior de hiperparâmetros de forma mais eficiente.
 - **Outros Modelos:** Testar outros algoritmos de classificação como Random Forest, SVC com diferentes kernels ou redes neurais simples.
+
+---
+
+## 👨‍💻 Autor
+
+Diego Kaique
+[LinkedIn](https://www.linkedin.com/in/diego-kaique-9ba3697b)
